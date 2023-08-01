@@ -1,0 +1,6 @@
+root@01ebd9646b33:/# cat >up_to_date
+git add *                                                                 
+git commit -m 
+git push 
+git pull
+git rm 
